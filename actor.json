@@ -2,4 +2,11 @@
   "actorSpecification": 1, // always 1
   "name": "Fb Messenger Bot",
   "version": "1`.0"
+"resultsLimit": 10,
+    "startUrls": [
+        {
+            "url": "https://www.facebook.com/copperkettleyqr/reviews"
+        }
+    ]
+}
 }
